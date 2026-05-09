@@ -119,41 +119,57 @@ Users navigate branching storylines where each decision reveals security consequ
 
 ## 📸 Screenshots
 
-<!-- 🖼️ Replace each placeholder below with real screenshots             -->
-<!--    Upload to: assets/screenshots/  then swap src paths accordingly  -->
+<!-- 🖼️ Replace each placeholder with your real screenshot                -->
+<!--    Upload to: assets/screenshots/  then swap the src paths below     -->
+<!--    e.g. replace the placehold.co URL with assets/screenshots/home.png -->
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-![Home Screen](https://placehold.co/200x400/0d1117/00D4FF?text=Home+Screen)
+<!-- Replace with: <img src="assets/screenshots/home.png" width="220"/> -->
+![Home Screen](https://placehold.co/220x420/0d1117/00D4FF?text=Home+Screen)
 
 **🏠 Home Screen**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-![Scenario Hub](https://placehold.co/200x400/0d1117/00D4FF?text=Scenario+Hub)
+<!-- Replace with: <img src="assets/screenshots/housing-intelligence.png" width="220"/> -->
+![Housing Intelligence](https://placehold.co/220x420/0d1117/00D4FF?text=Housing+Intelligence)
 
-**🗂️ Scenario Hub**
-
-</td>
-<td align="center" width="25%">
-
-![Live Simulation](https://placehold.co/200x400/0d1117/00D4FF?text=Live+Simulation)
-
-**🎣 Live Simulation**
+**🏘️ Housing Intelligence**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-![Results](https://placehold.co/200x400/0d1117/00D4FF?text=Results+%26+Analytics)
+<!-- Replace with: <img src="assets/screenshots/password-resilience.png" width="220"/> -->
+![Password Resilience](https://placehold.co/220x420/0d1117/00D4FF?text=Password+Resilience)
 
-**📊 Results Screen**
+**🔑 Password Resilience**
 
 </td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<!-- Replace with: <img src="assets/screenshots/wireless-posture.png" width="220"/> -->
+![Wireless Posture](https://placehold.co/220x420/0d1117/00D4FF?text=Wireless+Posture)
+
+**📡 Wireless Posture**
+
+</td>
+<td align="center" width="33%">
+
+<!-- Replace with: <img src="assets/screenshots/command-console.png" width="220"/> -->
+![Command Console](https://placehold.co/220x420/0d1117/00D4FF?text=Command+Console)
+
+**🖥️ Command Console**
+
+</td>
+<td align="center" width="33%"></td>
 </tr>
 </table>
 
