@@ -1,15 +1,17 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🔁 REPLACE the SVG below with your own animated typing banner  -->
-<!--    or keep this one — it auto-renders on GitHub                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+```
+  ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗██╗███╗   ███╗
+ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██║████╗ ████║
+ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████╗██║██╔████╔██║
+ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚════██║██║██║╚██╔╝██║
+ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████║██║██║ ╚═╝ ██║
+  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=900&height=90&lines=CyberSim;Cybersecurity+Simulation+for+Android;Phishing+%7C+Awareness+%7C+Training)](https://github.com/Harshal350/CyberSim)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=900&height=90&lines=Cybersecurity+Simulation+for+Android;Phishing+%7C+Awareness+%7C+Training)](https://github.com/Harshal350/CyberSim)
 
 <br/>
-
-<!-- ─── HERO BADGE ROW ─────────────────────────────────────────── -->
 
 [![GitHub Stars](https://img.shields.io/github/stars/Harshal350/CyberSim?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00D4FF&label=Stars)](https://github.com/Harshal350/CyberSim/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Harshal350/CyberSim?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00D4FF&label=Forks)](https://github.com/Harshal350/CyberSim/network/members)
@@ -29,8 +31,6 @@
 
 <br/>
 
-<!-- ─── CALL TO ACTION ─────────────────────────────────────────── -->
-
 [![⭐ Star this Repo](https://img.shields.io/badge/⭐%20Star%20this%20Repository-Give%20it%20a%20star!-FFD700?style=for-the-badge)](https://github.com/Harshal350/CyberSim/stargazers)
 [![📥 Download APK](https://img.shields.io/badge/📥%20Download%20APK-Latest%20Release-00D4FF?style=for-the-badge)](https://github.com/Harshal350/CyberSim/releases/latest)
 
@@ -38,41 +38,16 @@
 
 ---
 
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 1 — ANIMATED PREVIEW BANNER
-     ════════════════════════════════════════════════════════════════ -->
+<!-- 🖼️ BANNER — Upload your banner image to assets/banner.png then swap the line below:  -->
+<!-- <img src="assets/banner.png" width="900" alt="CyberSim Banner"/>                     -->
 
 <div align="center">
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- 🖼️  REPLACE the block below with your actual demo GIF/image    -->
-<!--     Recommended size: 900×500 px, saved as `demo-banner.gif`   -->
-<!--     Upload to: /assets/demo-banner.gif in your repo            -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║          [ INSERT DEMO GIF / SCREEN RECORDING HERE ]         ║
-║                                                              ║
-║   Drag & drop your GIF: assets/demo-banner.gif               ║
-║   Then replace this block with:                              ║
-║   <img src="assets/demo-banner.gif" width="900"/>            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+![Banner Placeholder](https://placehold.co/900x400/0d1117/00D4FF?text=CyberSim+—+Add+your+banner+to+assets/banner.png)
 
 </div>
 
-<br/>
-
 ---
-
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 2 — PROJECT DESCRIPTION
-     ════════════════════════════════════════════════════════════════ -->
 
 ## 🛡️ About CyberSim
 
@@ -103,10 +78,6 @@ Whether you're an individual looking to sharpen your digital instincts, a studen
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 3 — FEATURES
-     ════════════════════════════════════════════════════════════════ -->
-
 ## ✨ Features
 
 <div align="center">
@@ -123,11 +94,6 @@ Whether you're an individual looking to sharpen your digital instincts, a studen
 | 🏆 **Achievement System** | Gamified rewards to keep users engaged and motivated |
 
 </div>
-
-<br/>
-
-<details>
-<summary><b>🔍 Click to expand — Detailed Feature Breakdown</b></summary>
 
 <br/>
 
@@ -149,23 +115,12 @@ Users navigate branching storylines where each decision reveals security consequ
 - Weakness identification & personalized improvement tips
 - Session history with timeline view
 
-</details>
-
 ---
-
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 4 — SCREENSHOTS
-     ════════════════════════════════════════════════════════════════ -->
 
 ## 📸 Screenshots
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- 🖼️  Replace each placeholder below with real screenshots        -->
-<!--     Recommended: 360×780px, PNG or WebP                        -->
-<!--     Upload to: /assets/screenshots/ in your repo               -->
-<!--     Then replace the table cells with:                         -->
-<!--     <img src="assets/screenshots/screen1.png" width="200"/>    -->
-<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 🖼️ Replace each placeholder below with real screenshots             -->
+<!--    Upload to: assets/screenshots/  then swap src paths accordingly  -->
 
 <div align="center">
 
@@ -173,57 +128,29 @@ Users navigate branching storylines where each decision reveals security consequ
 <tr>
 <td align="center" width="25%">
 
-```
-┌──────────────┐
-│              │
-│  Screenshot  │
-│     #1       │
-│  Home Screen │
-│              │
-└──────────────┘
-```
+![Home Screen](https://placehold.co/200x400/0d1117/00D4FF?text=Home+Screen)
+
 **🏠 Home Screen**
 
 </td>
 <td align="center" width="25%">
 
-```
-┌──────────────┐
-│              │
-│  Screenshot  │
-│     #2       │
-│  Scenario    │
-│  Selection   │
-└──────────────┘
-```
+![Scenario Hub](https://placehold.co/200x400/0d1117/00D4FF?text=Scenario+Hub)
+
 **🗂️ Scenario Hub**
 
 </td>
 <td align="center" width="25%">
 
-```
-┌──────────────┐
-│              │
-│  Screenshot  │
-│     #3       │
-│  Phishing    │
-│  Simulation  │
-└──────────────┘
-```
+![Live Simulation](https://placehold.co/200x400/0d1117/00D4FF?text=Live+Simulation)
+
 **🎣 Live Simulation**
 
 </td>
 <td align="center" width="25%">
 
-```
-┌──────────────┐
-│              │
-│  Screenshot  │
-│     #4       │
-│  Results &   │
-│  Analytics   │
-└──────────────┘
-```
+![Results](https://placehold.co/200x400/0d1117/00D4FF?text=Results+%26+Analytics)
+
 **📊 Results Screen**
 
 </td>
@@ -234,16 +161,9 @@ Users navigate branching storylines where each decision reveals security consequ
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 5 — INSTALLATION
-     ════════════════════════════════════════════════════════════════ -->
-
 ## 🚀 Installation
 
-<details>
-<summary><b>🛠️ Build from Source (Developers)</b></summary>
-
-<br/>
+### 🛠️ Build from Source (Developers)
 
 **Prerequisites**
 
@@ -273,12 +193,7 @@ cd CyberSim
 #    Run → Run 'app'   (Shift + F10)
 ```
 
-</details>
-
-<details>
-<summary><b>📱 Install via APK (End Users)</b></summary>
-
-<br/>
+### 📱 Install via APK (End Users)
 
 1. Download the latest `.apk` from the [**Releases**](https://github.com/Harshal350/CyberSim/releases/latest) section
 2. On your Android device, navigate to:
@@ -289,22 +204,13 @@ cd CyberSim
 
 > ⚠️ *Enabling Unknown Sources is only required for sideloading. Always download APKs from trusted sources.*
 
-</details>
-
 ---
-
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 6 — APK DOWNLOAD
-     ════════════════════════════════════════════════════════════════ -->
 
 ## 📥 Download
 
 <div align="center">
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- 🔗 Replace the URL below once you publish a GitHub Release      -->
-<!--    Go to: Releases → Draft a new release → Upload your .apk    -->
-<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 🔗 Replace the release URL once you publish your first GitHub Release -->
 
 [![Download Latest APK](https://img.shields.io/badge/⬇️%20Download%20APK-CyberSim%20v1.0.0-00D4FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Harshal350/CyberSim/releases/latest)
 
@@ -317,10 +223,6 @@ cd CyberSim
 </div>
 
 ---
-
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 7 — TECH STACK
-     ════════════════════════════════════════════════════════════════ -->
 
 ## 🧰 Tech Stack
 
@@ -338,11 +240,6 @@ cd CyberSim
 
 <br/>
 
-<details>
-<summary><b>📦 Full Dependency & Architecture Details</b></summary>
-
-<br/>
-
 | Layer | Technology | Purpose |
 |---|---|---|
 | **Language** | Kotlin / Java | Core application logic |
@@ -353,13 +250,7 @@ cd CyberSim
 | **Storage** | SharedPreferences / Room | User progress persistence |
 | **Animations** | Lottie / Property Animators | Immersive UX motion |
 
-</details>
-
 ---
-
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 8 — ARCHITECTURE / WORKFLOW
-     ════════════════════════════════════════════════════════════════ -->
 
 ## 🏗️ Architecture & Workflow
 
@@ -385,10 +276,7 @@ cd CyberSim
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-<details>
-<summary><b>🔄 Scenario Flow Detail</b></summary>
-
-<br/>
+**Scenario Flow**
 
 ```
 User Opens App
@@ -396,41 +284,30 @@ User Opens App
       ▼
 Home Dashboard
       │
-      ├──▶ [Choose Scenario] ──▶ Difficulty Selection
-      │                                  │
-      │                                  ▼
-      │                         Simulation Loads
-      │                                  │
-      │                    ┌─────────────┴──────────────┐
-      │                    ▼                            ▼
-      │             User Interacts              Time Pressure
-      │             with Scenario               / Triggers
-      │                    │
-      │                    ▼
-      │             Decision Points
-      │             (Correct / Incorrect)
-      │                    │
-      │                    ▼
-      │             Outcome + Debrief
-      │                    │
-      │                    ▼
-      └──────────── Score + Progress Saved
+      └──▶ Choose Scenario ──▶ Difficulty Selection
+                                       │
+                                       ▼
+                              Simulation Loads
+                                       │
+                         ┌─────────────┴──────────────┐
+                         ▼                            ▼
+                  User Interacts              Time Pressure
+                  with Scenario               / Triggers
+                         │
+                         ▼
+                  Decision Points
+                  (Correct / Incorrect)
+                         │
+                         ▼
+                  Outcome + Debrief
+                         │
+                         ▼
+                  Score + Progress Saved
 ```
-
-</details>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 9 — FUTURE IMPROVEMENTS
-     ════════════════════════════════════════════════════════════════ -->
-
 ## 🔮 Roadmap & Future Improvements
-
-<details>
-<summary><b>🗺️ View Full Development Roadmap</b></summary>
-
-<br/>
 
 | 🚦 Status | 🎯 Feature | 📅 Target |
 |:---:|:---|:---:|
@@ -445,13 +322,7 @@ Home Dashboard
 | 📋 Planned | CTF-Style Challenge Mode | v2.0 |
 | 💡 Concept | AR-Based Social Engineering Sim | v3.0 |
 
-</details>
-
 ---
-
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 10 — GITHUB STATS
-     ════════════════════════════════════════════════════════════════ -->
 
 ## 📈 GitHub Stats
 
@@ -469,18 +340,9 @@ Home Dashboard
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 11 — CONTRIBUTING
-     ════════════════════════════════════════════════════════════════ -->
-
 ## 🤝 Contributing
 
-Contributions make the open-source community extraordinary. Any contribution you make is **genuinely appreciated**.
-
-<details>
-<summary><b>📋 Contribution Guidelines</b></summary>
-
-<br/>
+Contributions make the open-source community extraordinary. Any contribution you make is **greatly appreciated**.
 
 **How to Contribute**
 
@@ -515,16 +377,12 @@ git push origin feature/AmazingFeature
 | `refactor:` | Code restructure (no feature change) |
 | `test:` | Adding or updating tests |
 
-</details>
+<br/>
 
 [![Open Issues](https://img.shields.io/github/issues/Harshal350/CyberSim?style=for-the-badge&color=FF6B6B&label=Open%20Issues)](https://github.com/Harshal350/CyberSim/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/Harshal350/CyberSim?style=for-the-badge&color=00D4FF&label=Pull%20Requests)](https://github.com/Harshal350/CyberSim/pulls)
 
 ---
-
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 12 — LICENSE
-     ════════════════════════════════════════════════════════════════ -->
 
 ## 📄 License
 
@@ -543,10 +401,6 @@ copies of the Software...
 > 📃 See the full [`LICENSE`](https://github.com/Harshal350/CyberSim/blob/main/LICENSE) file for details.
 
 ---
-
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 13 — DEVELOPER
-     ════════════════════════════════════════════════════════════════ -->
 
 ## 👨‍💻 Developer
 
@@ -569,10 +423,6 @@ copies of the Software...
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 14 — CONTACT
-     ════════════════════════════════════════════════════════════════ -->
-
 ## 📬 Contact & Support
 
 <div align="center">
@@ -588,22 +438,7 @@ copies of the Software...
 
 ---
 
-<!-- ════════════════════════════════════════════════════════════════
-     SECTION 15 — FOOTER
-     ════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
-<br/>
-
-```
-  ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗██╗███╗   ███╗
- ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██║████╗ ████║
- ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████╗██║██╔████╔██║
- ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚════██║██║██║╚██╔╝██║
- ╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████║██║██║ ╚═╝ ██║
-  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝
-```
 
 **Simulate. Learn. Defend.**
 
