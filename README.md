@@ -38,12 +38,9 @@
 
 ---
 
-<!-- 🖼️ BANNER — Upload your banner image to assets/banner.png then swap the line below:  -->
-<!-- <img src="assets/banner.png" width="900" alt="CyberSim Banner"/>                     -->
-
 <div align="center">
 
-![Banner Placeholder](https://placehold.co/900x400/0d1117/00D4FF?text=CyberSim+—+Add+your+banner+to+assets/banner.png)
+<img src="https://raw.githubusercontent.com/Harshal350/CyberSim/main/ASSETS/b44558a7-036a-4740-8043-c210da9acd82.png" width="900" alt="CyberSim Banner"/>
 
 </div>
 
@@ -119,34 +116,27 @@ Users navigate branching storylines where each decision reveals security consequ
 
 ## 📸 Screenshots
 
-<!-- 🖼️ Replace each placeholder with your real screenshot                -->
-<!--    Upload to: assets/screenshots/  then swap the src paths below     -->
-<!--    e.g. replace the placehold.co URL with assets/screenshots/home.png -->
-
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-<!-- Replace with: <img src="assets/screenshots/home.png" width="220"/> -->
-![Home Screen](https://placehold.co/220x420/0d1117/00D4FF?text=Home+Screen)
+<img src="https://raw.githubusercontent.com/Harshal350/CyberSim/main/ASSETS/HOME.jpeg" width="220" alt="Home Screen"/>
 
 **🏠 Home Screen**
 
 </td>
 <td align="center" width="33%">
 
-<!-- Replace with: <img src="assets/screenshots/housing-intelligence.png" width="220"/> -->
-![Housing Intelligence](https://placehold.co/220x420/0d1117/00D4FF?text=Housing+Intelligence)
+<img src="https://raw.githubusercontent.com/Harshal350/CyberSim/main/ASSETS/email.jpeg" width="220" alt="Email Phishing Simulation"/>
 
-**🏘️ Housing Intelligence**
+**📧 Email Phishing Simulation**
 
 </td>
 <td align="center" width="33%">
 
-<!-- Replace with: <img src="assets/screenshots/password-resilience.png" width="220"/> -->
-![Password Resilience](https://placehold.co/220x420/0d1117/00D4FF?text=Password+Resilience)
+<img src="https://raw.githubusercontent.com/Harshal350/CyberSim/main/ASSETS/PASS.jpeg" width="220" alt="Password Resilience"/>
 
 **🔑 Password Resilience**
 
@@ -155,21 +145,25 @@ Users navigate branching storylines where each decision reveals security consequ
 <tr>
 <td align="center" width="33%">
 
-<!-- Replace with: <img src="assets/screenshots/wireless-posture.png" width="220"/> -->
-![Wireless Posture](https://placehold.co/220x420/0d1117/00D4FF?text=Wireless+Posture)
+<img src="https://raw.githubusercontent.com/Harshal350/CyberSim/main/ASSETS/WIFI.jpeg" width="220" alt="WiFi Security Simulation"/>
 
 **📡 Wireless Posture**
 
 </td>
 <td align="center" width="33%">
 
-<!-- Replace with: <img src="assets/screenshots/command-console.png" width="220"/> -->
-![Command Console](https://placehold.co/220x420/0d1117/00D4FF?text=Command+Console)
+<img src="https://raw.githubusercontent.com/Harshal350/CyberSim/main/ASSETS/TERMINAL.jpeg" width="220" alt="Command Console"/>
 
 **🖥️ Command Console**
 
 </td>
-<td align="center" width="33%"></td>
+<td align="center" width="33%">
+
+<img src="https://raw.githubusercontent.com/Harshal350/CyberSim/main/ASSETS/WEB.jpeg" width="220" alt="Web Attack Simulation"/>
+
+**🌐 Web Attack Simulation**
+
+</td>
 </tr>
 </table>
 
